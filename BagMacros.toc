@@ -1,0 +1,4 @@
+## Interface: 110002
+## Title: Bag Macros
+## Notes: Generates /use macros for bag items.
+BagMacros.lua
